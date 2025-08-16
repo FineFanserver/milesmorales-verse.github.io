@@ -1,1 +1,15 @@
+/* style.css */
+
+/* Фон для всей страницы */
+body {
+    background-color: #1e1e1e; /* тёмный фон */
+    color: #ffffff; /* цвет текста, чтобы был виден на тёмном фоне */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.jpg'); /* если хочешь картинку */
+    background-size: cover; /* растянуть на весь экран */
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
